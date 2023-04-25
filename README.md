@@ -1,2 +1,2 @@
-# flask_blueprint-
+# flask_blueprint
 Flask blueprint
